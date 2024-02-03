@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerWebHook", "TimerWebHook\TimerWebHook.csproj", "{339588FF-421F-42A4-B022-1B89FE222D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339588FF-421F-42A4-B022-1B89FE222D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339588FF-421F-42A4-B022-1B89FE222D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339588FF-421F-42A4-B022-1B89FE222D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339588FF-421F-42A4-B022-1B89FE222D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B662A5F-6521-4AA3-9462-C87724509429}
+	EndGlobalSection
+EndGlobal
